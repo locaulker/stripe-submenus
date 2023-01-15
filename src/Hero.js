@@ -6,7 +6,7 @@ const Hero = () => {
   const data = useGlobalContext()
   console.log(data)
 
-  return <h2>hero component</h2>
+  return <h4>hero component</h4>
 }
 
 export default Hero
