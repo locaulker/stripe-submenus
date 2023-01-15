@@ -20,7 +20,7 @@ const Navbar = () => {
             <button className="link-btn">Products</button>
           </li>
           <li>
-            <button className="link-btn">Devekopers</button>
+            <button className="link-btn">Developers</button>
           </li>
           <li>
             <button className="link-btn">Company</button>
